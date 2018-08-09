@@ -1,0 +1,13 @@
+{
+"companyName": "Unity Technologies Japan G.K",
+"productName": "ShootingGame",
+"dataUrl": "MASS_MASER.data.unityweb",
+"asmCodeUrl": "MASS_MASER.asm.code.unityweb",
+"asmMemoryUrl": "MASS_MASER.asm.memory.unityweb",
+"asmFrameworkUrl": "MASS_MASER.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
